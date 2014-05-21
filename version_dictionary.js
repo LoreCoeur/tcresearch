@@ -152,7 +152,7 @@ var version_dictionary = {
 			"crop": ["plant", "man"],
 			"mine": ["man", "earth"],
 			"tool": ["man", "order"],
-			"harvest": ["greed", "tool"],
+			"harvest": ["crop", "tool"],
 			"weapon": ["tool", "entropy"],
 			"armor": ["tool", "earth"],
 			"hunger": ["life", "void"],
